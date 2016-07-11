@@ -87,7 +87,7 @@ for(i=1;i<=50;i++){
    }
    console.log(output3);
  }
-
+console.log('or...');
 var pound =''
  for(i=0; i<7; i++){
    pound+= "#"
